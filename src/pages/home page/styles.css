@@ -1,0 +1,48 @@
+.bookslist-wrap{
+    display: inline-block;
+    width: 70%;
+}
+
+.bookslist-wrap body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bookslist-wrap p{
+    font-size: 20px;
+    width: 100%;
+}
+.bookslist-wrap hr{
+    width: 50%;
+    padding-top: 2px;
+    background-color: black;
+}
+.bookslist-wrap button{
+        background-color: #04AA6D;
+        color: white;
+        padding: 10px 20px;
+        margin : 1rem auto 1rem auto;
+        border: none;
+        cursor: pointer;
+        width: 20%;
+}
+.bookslist-wrap button:hover {
+    opacity: 0.6;
+}
+.bookslist-wrap ul{
+    margin: 0;
+    padding: 0;
+}
+.bookslist-wrap li{
+    background-color: #7cf3c8;
+    width: 100%;
+    border-radius: 10px;
+    margin: 0rem auto 0.5rem auto;
+    padding-top: 1px;
+    padding-bottom: .1px;
+}
+.bookslist-wrap h1{
+    background-color: #87d6f7;
+    width: 100%;
+    border-radius: 10px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+}
